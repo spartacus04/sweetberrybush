@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "me.spartacus04.berrybush.mixins",
+  "mixins": [
+    "SweetBerryBushMixin"
+  ]
+}
